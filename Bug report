@@ -1,1 +1,24 @@
+                                                                          Bug Report ‘MyApp’
+
+Title: Able to Log In with Invalid Credentials
+Environment:
+•	OS: Windows 11
+•	Browser: Google Chrome v105
+•	Device: Desktop
+•	Application Version: v1.2.3
+Steps to Reproduce:
+1.	Open the Chrome browser and navigate to the "MyApp" login page.
+2.	Enter the username: testuser@gmail.com in the "Username" field.
+3.	Enter the password: Password124 in the "Password" field.
+4.	Click on the "Login" button.
+Expected Result:
+•	The user should not be successfully logged in and redirected to the account dashboard.
+Actual Result:
+•	The user should not be successfully logged in.
+Priority:
+•	High – This issue needs to be addressed immediately to restore user access.
+Additional Information:
+•	Issue persists across multiple browsers (tested on Firefox and Edge as well).
+•	User credentials have been verified, and the issue does not appear to be caused by mistyped information.
+
 
